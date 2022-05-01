@@ -1,0 +1,4 @@
+server:
+  port: 9091
+
+exchange-rate-url: http://localhost:9092/product
